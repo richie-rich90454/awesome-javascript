@@ -29,7 +29,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Data Structure](#data-structure)
     * [Date](#date)
     * [String](#string)
-    * [Number](#number)
+    * [Number](###number)
     * [Storage](#storage)
     * [Color](#color)
     * [I18n And L10n](#i18n-and-l10n)
@@ -209,7 +209,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [jscs](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
 * [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
-* [buddy.js](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
+* [buddy.js](https://github.com/danielstjules/buddy.js) - Magic ##number detection for JavaScript.
 * [ESLint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
 * [JavaScript Standard Style](https://github.com/feross/standard) - Opinionated, no-configuration style guide, style checker, and formatter
@@ -524,6 +524,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Complex.js](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
 * [Quaternion.js](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+* [fast-balance](https://github.com/richie-rich90454/fast-balance) - Exact-arithmetic chemical equation balancing for JavaScript and TypeScript, including ionic charge conservation and redox reactions.
 
 ## Storage
 
